@@ -1,0 +1,7 @@
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\bin\Debug\ExceptionsFromElvisTrupja.exe.config
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\bin\Debug\ExceptionsFromElvisTrupja.exe
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\bin\Debug\ExceptionsFromElvisTrupja.pdb
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\obj\Debug\ExceptionsFromElvisTrupja.csproj.AssemblyReference.cache
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\obj\Debug\ExceptionsFromElvisTrupja.csproj.CoreCompileInputs.cache
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\obj\Debug\ExceptionsFromElvisTrupja.exe
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ExceptionsFromElvisTrupja\ExceptionsFromElvisTrupja\obj\Debug\ExceptionsFromElvisTrupja.pdb
